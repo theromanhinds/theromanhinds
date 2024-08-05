@@ -12,4 +12,4 @@ I'm passionate about Software and Feature Development, and so the code behind ev
 
 ### Contact Me
 - Send me an email at: theromanhinds@gmail.com
-- Find me on: [LinkedIn](https://www.linkedin.com/in/romanhinds/) | [Instagram](https://www.instagram.com/roman.hinds/) | [Twitter](https://twitter.com/theromanhinds)
+- Find me on: [LinkedIn](https://www.linkedin.com/in/romanhinds/)
